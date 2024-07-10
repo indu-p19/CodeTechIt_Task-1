@@ -13,7 +13,7 @@ body {
     max-width: 470px;
     background: linear-gradient(135deg, #fed0c5, #8b47b5);
     color: #fff;
-    margin: 100px auto 0;
+    margin: auto auto;
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
@@ -57,7 +57,7 @@ ul {
 }
 
 li {
-    background: #ffffff;
+    background: #00000067;
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 5px;
@@ -68,23 +68,23 @@ li {
 
 li span {
     flex-grow: 1;
-    color:#000000;
+    color:#ffffff;
 }
 
 li span.completed {
     text-decoration: line-through;
-    color: #999;
+    color: #ffffff;
 }
 
 li button {
     background: none;
-    border: 0.05px solid black;
-    color: #000000;
+    border: 0.05px solid rgb(255, 255, 255);
+    color: #ffffff;
     cursor: pointer;
     margin-left: 5px;
 }
 
 li button:hover {
-    color: #ffffff;
-    background-color:#000000
+    color: #000000;
+    background-color:#ffffff
 }

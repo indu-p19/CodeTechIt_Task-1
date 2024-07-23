@@ -22,8 +22,8 @@ The objective of this project is to create a user-friendly to-do list web app wi
 
 ### Key Activities
 - **Task Organization**: Users will be able to organize their tasks effectively, categorizing them as pending or completed.
-Task Management: Users can add new tasks, edit existing ones, and remove tasks they no longer need.
-User Interface: The application will have a clean and intuitive user interface to enhance user experience.
+- **Task Management:** Users can add new tasks, edit existing ones, and remove tasks they no longer need.
+- **User Interface:** The application will have a clean and intuitive user interface to enhance user experience.
 
 ### Technologies Used
 - **HTML:** For structuring the web application and defining its content.

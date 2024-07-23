@@ -1,13 +1,13 @@
 # CodeTechIt_Task-1
 **Name**: NARENDRA INDU PRIYA <br/>
 **Company**: CODETECH IT SOLUTIONS <br/>
-**ID:** <br/>
+**ID:** CT4WD3375 <br/>
 **Domain:** WEB DEVELOPMENT<br/>
 **Duration:** July 1st to Aug 1st 2024<br/>
-**Mentor:**<br/>
+**Mentor:** +91 93912 61627 <br/>
 
 
-##Overview of the project
+## Overview of the project
 
 ### Project: TO-DO LIST WEB APPLICATION
 
@@ -18,12 +18,19 @@
 
 
 ### Objective
-The objective of this project is to create a user-friendly to-do list web app with CSS, HTML, and JavaScript.
+The objective of this project is to create a user-friendly to-do list web app with CSS, HTML, and JavaScript.The app should allow users to add, edit, and delete tasks, as well as mark tasks as completed.
 
 ### Key Activities
-
+- **Task Organization**: Users will be able to organize their tasks effectively, categorizing them as pending or completed.
+Task Management: Users can add new tasks, edit existing ones, and remove tasks they no longer need.
+User Interface: The application will have a clean and intuitive user interface to enhance user experience.
 
 ### Technologies Used
-- **HTML:**
-- **CSS:**
-- **JavaScript:**
+- **HTML:** For structuring the web application and defining its content.
+- **CSS:** For styling the web application and making it visually appealing.
+- **JavaScript:** For adding interactivity to the application, such as task management and dynamic updates.
+
+### Key Insights
+- **Efficiency:** The to-do list app aims to help users manage their tasks efficiently, improving their productivity.
+- **User Experience:** Emphasis on creating a user-friendly interface to ensure the app is easy to navigate and use.
+- **Functionality:** Ensuring the core functionalities like adding, editing, and deleting tasks work seamlessly.
